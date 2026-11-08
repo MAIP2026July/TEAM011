@@ -1,0 +1,4193 @@
+{
+  "POL200001": {
+    "folder": "POL200001",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Renewal - Underwriter Approval Required",
+      "rule_ids": [
+        "REN-003"
+      ],
+      "rationale": "No findings were detected [REN-003]. An authorised underwriter must make the decision [REN-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200001_Application_2026-04-15.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200001",
+          "quote": "Proposal Ref No.: POL200001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-15",
+          "quote": "Dated: 15/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-05-15",
+          "quote": "Cover Commences On: 15/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Premises Address: Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "280,000,000",
+          "quote": "Amount Insured (INR): 280,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an application for commercial property cover for Konkan Packaging Works."
+      },
+      "POL200001_Inspection_Report_2026-04-24.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200001",
+          "quote": "Proposal Ref No.: POL200001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-24",
+          "quote": "Dated: 24/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Premises Address: Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "280,000,000",
+          "quote": "Amount Insured (INR): 280,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's report detailing the premises condition, fire safety arrangements, and insurance details for Konkan Packaging Works."
+      },
+      "POL200001_Risk_Assessment_2026-04-19.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200001",
+          "quote": "Proposal Ref No.: POL200001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-19",
+          "quote": "Dated: 19/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Premises Address: Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "280,000,000",
+          "quote": "Amount Insured (INR): 280,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Hazard Classification: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note evaluating the hazard classification and amount insured for Konkan Packaging Works."
+      },
+      "POL200001_Signed_Disclosure_2026-04-29.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200001",
+          "quote": "Proposal Ref No.: POL200001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-29",
+          "quote": "Dated: 29/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure containing key information, policy exclusions, and an acknowledgment of terms."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200001_Application_2026-04-15.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "CNT-002",
+        "SIG-001",
+        "DAT-002",
+        "SIG-002",
+        "DAT-001",
+        "SIG-003",
+        "CNT-003"
+      ],
+      "POL200001_Inspection_Report_2026-04-24.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "REN-001",
+        "SIG-003"
+      ],
+      "POL200001_Risk_Assessment_2026-04-19.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "REN-001",
+        "NAM-001",
+        "CNT-002"
+      ],
+      "POL200001_Signed_Disclosure_2026-04-29.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "SIG-004",
+        "POL-002",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL200002": {
+    "folder": "POL200002",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Renewal - Underwriter Approval Required",
+      "rule_ids": [
+        "REN-003"
+      ],
+      "rationale": "No findings were detected [REN-003]. An authorised underwriter must make the decision [REN-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200002_Application_2026-05-20.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200002",
+          "quote": "Proposal Ref No.: POL200002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-20",
+          "quote": "Dated: 20/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-06-19",
+          "quote": "Cover Commences On: 19/06/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Name of Insured: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Shed 9, Ambattur Estate, Chennai",
+          "quote": "Premises Address: Shed 9, Ambattur Estate, Chennai",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "180,000,000",
+          "quote": "Amount Insured (INR): 180,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ~~~",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an application for commercial property cover for Satpura Plastics Pvt Ltd."
+      },
+      "POL200002_Inspection_Report_2026-05-29.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200002",
+          "quote": "Proposal Ref No.: POL200002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-29",
+          "quote": "Dated: 29/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Name of Insured: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Shed 9, Ambattur Estate, Chennai",
+          "quote": "Premises Address: Shed 9, Ambattur Estate, Chennai",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "180,000,000",
+          "quote": "Amount Insured (INR): 180,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _______________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor inspection report for Satpura Plastics Pvt Ltd assessing the premises and fire safety arrangements."
+      },
+      "POL200002_Risk_Assessment_2026-05-24.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200002",
+          "quote": "Proposal Ref No.: POL200002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-24",
+          "quote": "Dated: 24/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Name of Insured: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Shed 9, Ambattur Estate, Chennai",
+          "quote": "Premises Address: Shed 9, Ambattur Estate, Chennai",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "180,000,000",
+          "quote": "Amount Insured (INR): 180,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Hazard Classification: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _______________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note for Satpura Plastics Pvt Ltd detailing hazard classification and premises details."
+      },
+      "POL200002_Signed_Disclosure_2026-06-03.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200002",
+          "quote": "Proposal Ref No.: POL200002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-03",
+          "quote": "Dated: 03/06/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Name of Insured: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ---------------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions for Satpura Plastics Pvt Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200002_Application_2026-05-20.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "CNT-002",
+        "SIG-001",
+        "DAT-002",
+        "STR-001",
+        "SIG-002",
+        "NAM-001",
+        "DAT-001"
+      ],
+      "POL200002_Inspection_Report_2026-05-29.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "NAM-001",
+        "CNT-003",
+        "REN-001"
+      ],
+      "POL200002_Risk_Assessment_2026-05-24.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "REN-002",
+        "NAM-001",
+        "CNT-001",
+        "REN-001"
+      ],
+      "POL200002_Signed_Disclosure_2026-06-03.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "POL-001"
+      ]
+    }
+  },
+  "POL200003": {
+    "folder": "POL200003",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "REN-002"
+      ],
+      "rationale": "This renewal recommendation requires manual underwriter review because the risk grade is high [REN-002]. There are no findings on this policy.",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200003_Application_2026-04-03.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200003",
+          "quote": "Proposal Ref No.: POL200003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-03",
+          "quote": "Dated: 03/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-05-03",
+          "quote": "Cover Commences On: 03/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Premises Address: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "400,000,000",
+          "quote": "Amount Insured (INR): 400,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal for Aravalli Ceramics Ltd."
+      },
+      "POL200003_Inspection_Report_2026-04-12.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200003",
+          "quote": "Proposal Ref No.: POL200003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-12",
+          "quote": "Dated: 12/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Premises Address: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "400,000,000",
+          "quote": "Amount Insured (INR): 400,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's report detailing the inspection of premises for Aravalli Ceramics Ltd."
+      },
+      "POL200003_Risk_Assessment_2026-04-07.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200003",
+          "quote": "Proposal Ref No.: POL200003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-07",
+          "quote": "Dated: 07/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Premises Address: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "400,000,000",
+          "quote": "Amount Insured (INR): 400,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "High",
+          "quote": "Hazard Classification: High",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note assessing the hazard classification and premises details for Aravalli Ceramics Ltd."
+      },
+      "POL200003_Signed_Disclosure_2026-04-17.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200003",
+          "quote": "Proposal Ref No.: POL200003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-17",
+          "quote": "Dated: 17/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure and acknowledgement of key information and terms by Aravalli Ceramics Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200003_Application_2026-04-03.pdf": [
+        "CNT-001",
+        "POL-002",
+        "STR-002",
+        "SIG-001",
+        "CNT-002",
+        "SIG-002",
+        "REN-001",
+        "DAT-002",
+        "NAM-001",
+        "DAT-001"
+      ],
+      "POL200003_Inspection_Report_2026-04-12.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "POL-002",
+        "DAT-002",
+        "NAM-002",
+        "NAM-001",
+        "CNT-003"
+      ],
+      "POL200003_Risk_Assessment_2026-04-07.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "REN-002",
+        "CNT-001",
+        "NAM-001",
+        "CNT-004"
+      ],
+      "POL200003_Signed_Disclosure_2026-04-17.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "FRM-001",
+        "STR-002",
+        "SIG-003",
+        "DAT-002",
+        "SIG-001",
+        "SIG-004",
+        "POL-002",
+        "CNT-003"
+      ]
+    }
+  },
+  "POL200004": {
+    "folder": "POL200004",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-003",
+        "summary": "The signature line for the assessing underwriter is blank.",
+        "document": "POL200004_UW Risk Sheet_2026-04-17.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: ____________________",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "signature",
+        "rule_text": "The Risk Assessment must be signed by the assessing underwriter."
+      },
+      {
+        "rule_id": "NAM-001",
+        "summary": "Name does not follow the standard for Risk Assessment.",
+        "document": "POL200004_UW Risk Sheet_2026-04-17.pdf",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "minor",
+        "category": "naming",
+        "rule_text": "File names must follow PolicyNumber_DocumentType_YYYY-MM-DD.pdf, for example POL123456_Risk_Assessment_2025-03-14.pdf, using the standard document type names."
+      }
+    ],
+    "audit": {
+      "score": 85,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "SIG-003",
+          "points": 10,
+          "summary": "The signature line for the assessing underwriter is blank."
+        },
+        {
+          "rule_id": "NAM-001",
+          "points": 5,
+          "summary": "Name does not follow the standard for Risk Assessment."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "NAM-001",
+        "SIG-003"
+      ],
+      "rationale": "We recommend Manual Underwriter Review for this policy because the audit status is 'Review Required' due to unverified findings. Specifically, the signature line for the assessing underwriter is blank [SIG-003], and the name does not follow the standard for Risk Assessment [NAM-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200004_Application_2026-04-13.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200004",
+          "quote": "Proposal Ref No.: POL200004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-13",
+          "quote": "Dated: 13/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-05-13",
+          "quote": "Cover Commences On: 13/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Amount Insured (INR): 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an application for commercial property cover submitted by Aravalli Ceramics Ltd."
+      },
+      "POL200004_Inspection_Report_2026-04-22.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200004",
+          "quote": "Proposal Ref No.: POL200004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-22",
+          "quote": "Dated: 22/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Amount Insured (INR): 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's inspection report for Aravalli Ceramics Ltd detailing the premises conditions and safety arrangements."
+      },
+      "POL200004_Signed_Disclosure_2026-04-27.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200004",
+          "quote": "Proposal Ref No.: POL200004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-27",
+          "quote": "Dated: 27/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions."
+      },
+      "POL200004_UW Risk Sheet_2026-04-17.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200004",
+          "quote": "Proposal Ref No.: POL200004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-17",
+          "quote": "Dated: 17/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Amount Insured (INR): 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Hazard Classification: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": false,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note for Aravalli Ceramics Ltd detailing the hazard classification and amount insured."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200004_Application_2026-04-13.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "DAT-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-002",
+        "NAM-001"
+      ],
+      "POL200004_Inspection_Report_2026-04-22.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "POL-002",
+        "DAT-002",
+        "CNT-003",
+        "NAM-001",
+        "REN-001"
+      ],
+      "POL200004_Signed_Disclosure_2026-04-27.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "SIG-004",
+        "POL-002",
+        "CNT-003"
+      ],
+      "POL200004_UW Risk Sheet_2026-04-17.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "REN-002",
+        "DAT-001",
+        "POL-002",
+        "NAM-001",
+        "CNT-001",
+        "REN-001"
+      ]
+    }
+  },
+  "POL200005": {
+    "folder": "POL200005",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "STR-001",
+        "summary": "File name does not carry the folder's policy number.",
+        "document": "survey_final_v2.pdf",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "structure",
+        "rule_text": "The policy folder must be named with the policy number, in the form POL followed by digits, and every file in it must carry that same policy number in its file name."
+      },
+      {
+        "rule_id": "NAM-001",
+        "summary": "Name does not follow the standard for Inspection Report.",
+        "document": "survey_final_v2.pdf",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "minor",
+        "category": "naming",
+        "rule_text": "File names must follow PolicyNumber_DocumentType_YYYY-MM-DD.pdf, for example POL123456_Risk_Assessment_2025-03-14.pdf, using the standard document type names."
+      }
+    ],
+    "audit": {
+      "score": 85,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "STR-001",
+          "points": 10,
+          "summary": "File name does not carry the folder's policy number."
+        },
+        {
+          "rule_id": "NAM-001",
+          "points": 5,
+          "summary": "Name does not follow the standard for Inspection Report."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "NAM-001",
+        "STR-001"
+      ],
+      "rationale": "I recommend Manual Underwriter Review for this policy because the file name does not carry the folder's policy number [STR-001]. Additionally, the name does not follow the standard for the Inspection Report [NAM-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200005_Application_2026-03-06.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200005",
+          "quote": "Proposal Ref No.: POL200005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-06",
+          "quote": "Dated: 06/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-04-05",
+          "quote": "Cover Commences On: 05/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "380,000,000",
+          "quote": "Amount Insured (INR): 380,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal application for Ganga Food Processors Pvt Ltd."
+      },
+      "POL200005_Risk_Assessment_2026-03-10.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200005",
+          "quote": "Proposal Ref No.: POL200005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-10",
+          "quote": "Dated: 10/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "380,000,000",
+          "quote": "Amount Insured (INR): 380,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Hazard Classification: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note detailing hazard classification and insured premises details for Ganga Food Processors Pvt Ltd."
+      },
+      "POL200005_Signed_Disclosure_2026-03-20.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200005",
+          "quote": "Proposal Ref No.: POL200005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-20",
+          "quote": "Dated: 20/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions for Ganga Food Processors Pvt Ltd."
+      },
+      "survey_final_v2.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200005",
+          "quote": "Proposal Ref No.: POL200005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-15",
+          "quote": "Dated: 15/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "380,000,000",
+          "quote": "Amount Insured (INR): 380,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's report detailing the premises condition, fire safety arrangements, and valuation for Ganga Food Processors Pvt Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200005_Application_2026-03-06.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "SIG-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-001",
+        "NAM-001"
+      ],
+      "POL200005_Risk_Assessment_2026-03-10.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "REN-002",
+        "CNT-001",
+        "NAM-001",
+        "CNT-002"
+      ],
+      "POL200005_Signed_Disclosure_2026-03-20.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-001",
+        "SIG-003",
+        "POL-002",
+        "CNT-001",
+        "SIG-004"
+      ],
+      "survey_final_v2.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "SIG-002",
+        "CNT-002",
+        "CNT-003"
+      ]
+    }
+  },
+  "POL200006": {
+    "folder": "POL200006",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "CNT-004",
+        "summary": "The inspection report states the condition of the property and the surveyor name, but fails to list any fire protection arrangements.",
+        "document": "POL200006_Inspection_Report_2026-08-10.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Fire Safety Arrangements:",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Inspection Report must state the condition of the property, the fire protection arrangements and the name of the surveyor."
+      },
+      {
+        "rule_id": "NAM-002",
+        "summary": "File name says 2026-08-10; document says 2026-07-11.",
+        "document": "POL200006_Inspection_Report_2026-08-10.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "11/07/2026",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "minor",
+        "category": "naming",
+        "rule_text": "The date in a file name must equal the document date printed inside the document."
+      }
+    ],
+    "audit": {
+      "score": 85,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "CNT-004",
+          "points": 10,
+          "summary": "The inspection report states the condition of the property and the surveyor name, but fails to list any fire protection arrangements."
+        },
+        {
+          "rule_id": "NAM-002",
+          "points": 5,
+          "summary": "File name says 2026-08-10; document says 2026-07-11."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "CNT-004",
+        "NAM-002"
+      ],
+      "rationale": "This renewal requires Manual Underwriter Review because the audit status is 'Review Required' [CNT-004, NAM-002]. Specifically, the inspection report lacks fire protection arrangements [CNT-004], and there is a date discrepancy where the file name lists 2026-08-10 while the document says 2026-07-11 [NAM-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200006_Application_2026-07-02.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200006",
+          "quote": "Proposal Ref No.: POL200006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-02",
+          "quote": "Dated: 02/07/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-08-01",
+          "quote": "Cover Commences On: 01/08/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Name of Insured: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Premises Address: Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "650,000,000",
+          "quote": "Amount Insured (INR): 650,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal application for Nilgiri Tea Exports."
+      },
+      "POL200006_Inspection_Report_2026-08-10.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200006",
+          "quote": "POL200006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-11",
+          "quote": "11/07/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "650,000,000",
+          "quote": "650,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's inspection report for Nilgiri Tea Exports detailing the premises condition, amount insured, and survey details."
+      },
+      "POL200006_Risk_Assessment_2026-07-06.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200006",
+          "quote": "Proposal Ref No.: POL200006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-06",
+          "quote": "Dated: 06/07/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Name of Insured: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Survey 212, Sanand GIDC, Ahmedabad",
+          "quote": "Premises Address: Survey 212, Sanand GIDC, Ahmedabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "650,000,000",
+          "quote": "Amount Insured (INR): 650,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Hazard Classification: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note assessing the premises hazard classification and amount insured for Nilgiri Tea Exports."
+      },
+      "POL200006_Signed_Disclosure_2026-07-16.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200006",
+          "quote": "Proposal Ref No.: POL200006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-16",
+          "quote": "Dated: 16/07/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Name of Insured: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining exclusions and confirming acceptance of terms."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200006_Application_2026-07-02.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "SIG-002",
+        "DAT-001",
+        "REN-001",
+        "DAT-002",
+        "CNT-003"
+      ],
+      "POL200006_Inspection_Report_2026-08-10.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "POL-002",
+        "DAT-002",
+        "DAT-001",
+        "CNT-001",
+        "CNT-002",
+        "NAM-001"
+      ],
+      "POL200006_Risk_Assessment_2026-07-06.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-001",
+        "REN-001"
+      ],
+      "POL200006_Signed_Disclosure_2026-07-16.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "FRM-001",
+        "STR-002",
+        "DAT-002",
+        "SIG-003",
+        "SIG-004",
+        "SIG-001",
+        "CNT-003",
+        "POL-002"
+      ]
+    }
+  },
+  "POL200007": {
+    "folder": "POL200007",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-004",
+        "summary": "The report contains a signature line with a squiggle above it, but no printed name or actual signature of the inspecting surveyor is present.",
+        "document": "POL200007_Inspection_Report_2026-01-18.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: _________",
+        "page": 1,
+        "verification": "no_text_layer",
+        "confidence_band": "MEDIUM",
+        "id": "F001",
+        "severity": "major",
+        "category": "signature",
+        "rule_text": "The Inspection Report must be signed by the inspecting surveyor."
+      },
+      {
+        "rule_id": "POL-001",
+        "summary": "Document shows POL888888; folder is POL200007.",
+        "document": "POL200007_Risk_Assessment_2026-01-06.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Proposal Ref No.: POL888888",
+        "page": 1,
+        "verification": "no_text_layer",
+        "confidence_band": "MEDIUM",
+        "id": "F002",
+        "severity": "critical",
+        "category": "consistency",
+        "rule_text": "The policy number printed inside every document must equal the policy number of the folder."
+      },
+      {
+        "rule_id": "DAT-001",
+        "summary": "Risk Assessment (2026-01-06) predates the Application (2026-01-09).",
+        "document": "POL200007_Risk_Assessment_2026-01-06.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Dated: 06/01/2026",
+        "page": 1,
+        "verification": "no_text_layer",
+        "confidence_band": "MEDIUM",
+        "id": "F003",
+        "severity": "major",
+        "category": "consistency",
+        "rule_text": "The Risk Assessment and the Inspection Report must be dated on or after the Application date. A Risk Assessment dated before the Application is an inconsistency."
+      }
+    ],
+    "audit": {
+      "score": 55,
+      "status": "Fail - Critical Action Needed",
+      "deductions": [
+        {
+          "rule_id": "SIG-004",
+          "points": 10,
+          "summary": "The report contains a signature line with a squiggle above it, but no printed name or actual signature of the inspecting surveyor is present."
+        },
+        {
+          "rule_id": "POL-001",
+          "points": 25,
+          "summary": "Document shows POL888888; folder is POL200007."
+        },
+        {
+          "rule_id": "DAT-001",
+          "points": 10,
+          "summary": "Risk Assessment (2026-01-06) predates the Application (2026-01-09)."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "POL-001"
+      ],
+      "rationale": "We recommend a hold on this renewal due to a compliance escalation involving open critical findings [POL-001]. Specifically, the document shows POL888888 while the folder is POL200007 [POL-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200007_Application_2026-01-09.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200007",
+          "quote": "Proposal Ref No.: POL200007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-09",
+          "quote": "Dated: 09/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-02-08",
+          "quote": "Cover Commences On: 08/02/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "890,000,000",
+          "quote": "Amount Insured (INR): 890,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _____________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal for Ganga Food Processors Pvt Ltd."
+      },
+      "POL200007_Inspection_Report_2026-01-18.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200007",
+          "quote": "Proposal Ref No.: POL200007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-18",
+          "quote": "Dated: 18/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "890,000,000",
+          "quote": "Amount Insured (INR): 890,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's inspection report for Ganga Food Processors Pvt Ltd dated 18/01/2026."
+      },
+      "POL200007_Risk_Assessment_2026-01-06.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL888888",
+          "quote": "Proposal Ref No.: POL888888",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-06",
+          "quote": "Dated: 06/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "890,000,000",
+          "quote": "Amount Insured (INR): 890,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Hazard Classification: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: vvv",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note assessing the risk details and hazard classification for Ganga Food Processors Pvt Ltd."
+      },
+      "POL200007_Signed_Disclosure_2026-01-23.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200007",
+          "quote": "Proposal Ref No.: POL200007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-23",
+          "quote": "Dated: 23/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Ganga Food Processors Pvt Ltd",
+          "quote": "Name of Insured: Ganga Food Processors Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure for policy POL200007."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200007_Application_2026-01-09.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "SIG-002",
+        "DAT-002",
+        "REN-001",
+        "DAT-001",
+        "NAM-001"
+      ],
+      "POL200007_Inspection_Report_2026-01-18.pdf": [
+        "SIG-004",
+        "CNT-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "NAM-001",
+        "NAM-002",
+        "CNT-002"
+      ],
+      "POL200007_Risk_Assessment_2026-01-06.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "CNT-002",
+        "REN-001",
+        "CNT-001"
+      ],
+      "POL200007_Signed_Disclosure_2026-01-23.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "STR-001",
+        "SIG-001",
+        "CNT-003",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL200008": {
+    "folder": "POL200008",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-004",
+        "summary": "The signature field for the inspecting surveyor is blank.",
+        "document": "POL200008_Inspection_Report_2026-04-20.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: ____________________",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "signature",
+        "rule_text": "The Inspection Report must be signed by the inspecting surveyor."
+      }
+    ],
+    "audit": {
+      "score": 90,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "SIG-004",
+          "points": 10,
+          "summary": "The signature field for the inspecting surveyor is blank."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "SIG-004"
+      ],
+      "rationale": "I recommend a manual underwriter review for this renewal. This is necessary because the audit status is 'Review Required' due to a blank signature field for the inspecting surveyor [SIG-004].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200008_Application_2026-04-11.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200008",
+          "quote": "Proposal Ref No.: POL200008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-11",
+          "quote": "Dated: 11/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-05-11",
+          "quote": "Cover Commences On: 11/05/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "570,000,000",
+          "quote": "Amount Insured (INR): 570,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an application for commercial property cover submitted by Aravalli Ceramics Ltd."
+      },
+      "POL200008_Inspection_Report_2026-04-20.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200008",
+          "quote": "Proposal Ref No.: POL200008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-20",
+          "quote": "Dated: 20/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "570,000,000",
+          "quote": "Amount Insured (INR): 570,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": false,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's inspection report detailing premises conditions and fire safety arrangements for Aravalli Ceramics Ltd."
+      },
+      "POL200008_Risk_Assessment_2026-04-15.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200008",
+          "quote": "Proposal Ref No.: POL200008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-15",
+          "quote": "Dated: 15/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "570,000,000",
+          "quote": "Amount Insured (INR): 570,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Hazard Classification: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note for Aravalli Ceramics Ltd detailing premises, sum insured, and hazard classification."
+      },
+      "POL200008_Signed_Disclosure_2026-04-25.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200008",
+          "quote": "Proposal Ref No.: POL200008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-25",
+          "quote": "Dated: 25/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Name of Insured: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure for Aravalli Ceramics Ltd outlining policy exclusions."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200008_Application_2026-04-11.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "DAT-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-002",
+        "NAM-001"
+      ],
+      "POL200008_Inspection_Report_2026-04-20.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-003",
+        "SIG-003"
+      ],
+      "POL200008_Risk_Assessment_2026-04-15.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "CNT-001",
+        "NAM-001",
+        "REN-001"
+      ],
+      "POL200008_Signed_Disclosure_2026-04-25.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "POL-002",
+        "CNT-001",
+        "SIG-004"
+      ]
+    }
+  },
+  "POL200009": {
+    "folder": "POL200009",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "CNT-003",
+        "summary": "The risk assessment names the assessing underwriter, but fails to state a risk grade.",
+        "document": "POL200009_Risk_Assessment_2026-03-27.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Hazard Classification: \nAssessed By: R. Menon",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Risk Assessment must state a risk grade of Low, Medium or High, and must name the assessing underwriter."
+      },
+      {
+        "rule_id": "FRM-001",
+        "summary": "Withdrawn form version DF-2021.",
+        "document": "POL200009_Signed_Disclosure_2026-04-06.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Form Ref: DF-2021",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Signed Disclosure must use form version DF-2024 or later. Earlier form versions are withdrawn and must not be used."
+      }
+    ],
+    "audit": {
+      "score": 80,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "CNT-003",
+          "points": 10,
+          "summary": "The risk assessment names the assessing underwriter, but fails to state a risk grade."
+        },
+        {
+          "rule_id": "FRM-001",
+          "points": 10,
+          "summary": "Withdrawn form version DF-2021."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "CNT-003",
+        "FRM-001"
+      ],
+      "rationale": "This renewal is recommended for manual underwriter review because the audit status is set to review required. This review is necessary because the risk assessment names the assessing underwriter, but fails to state a risk grade [CNT-003], and it includes withdrawn form version DF-2021 [FRM-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200009_Application_2026-03-23.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200009",
+          "quote": "Proposal Ref No.: POL200009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-23",
+          "quote": "Dated: 23/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-04-22",
+          "quote": "Cover Commences On: 22/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Godavari Garments LLP",
+          "quote": "Name of Insured: Godavari Garments LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "830,000,000",
+          "quote": "Amount Insured (INR): 830,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed commercial property cover proposal for Godavari Garments LLP."
+      },
+      "POL200009_Inspection_Report_2026-04-01.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200009",
+          "quote": "Proposal Ref No.: POL200009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-01",
+          "quote": "Dated: 01/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Godavari Garments LLP",
+          "quote": "Name of Insured: Godavari Garments LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "830,000,000",
+          "quote": "Amount Insured (INR): 830,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's report detailing the inspection of premises for Godavari Garments LLP."
+      },
+      "POL200009_Risk_Assessment_2026-03-27.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200009",
+          "quote": "Proposal Ref No.: POL200009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-27",
+          "quote": "Dated: 27/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Godavari Garments LLP",
+          "quote": "Name of Insured: Godavari Garments LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "830,000,000",
+          "quote": "Amount Insured (INR): 830,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note for Godavari Garments LLP detailing premises and insurance amount."
+      },
+      "POL200009_Signed_Disclosure_2026-04-06.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200009",
+          "quote": "Proposal Ref No.: POL200009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-06",
+          "quote": "Dated: 06/04/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Godavari Garments LLP",
+          "quote": "Name of Insured: Godavari Garments LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2021",
+          "quote": "Form Ref: DF-2021",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions for Godavari Garments LLP."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200009_Application_2026-03-23.pdf": [
+        "CNT-001",
+        "SIG-001",
+        "SIG-002",
+        "POL-002",
+        "STR-002",
+        "CNT-002",
+        "SIG-003",
+        "REN-001",
+        "DAT-002",
+        "STR-001"
+      ],
+      "POL200009_Inspection_Report_2026-04-01.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "POL-002",
+        "DAT-002",
+        "NAM-002",
+        "NAM-001",
+        "CNT-003"
+      ],
+      "POL200009_Risk_Assessment_2026-03-27.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-001",
+        "REN-001"
+      ],
+      "POL200009_Signed_Disclosure_2026-04-06.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "POL-002",
+        "SIG-004",
+        "CNT-001"
+      ]
+    }
+  },
+  "POL200010": {
+    "folder": "POL200010",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "STR-002",
+        "summary": "Required document missing: Inspection Report.",
+        "document": "Folder",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "critical",
+        "category": "structure",
+        "rule_text": "Every policy folder must contain one Application, one Risk Assessment, one Inspection Report and one Signed Disclosure."
+      },
+      {
+        "rule_id": "POL-002",
+        "summary": "The proposer name does not agree between the application and the risk assessment.",
+        "document": "POL200010_Risk_Assessment_2026-01-31.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Tapti Chemicals Ltd",
+        "page": 0,
+        "verification": "extracted_value",
+        "confidence_band": "MEDIUM",
+        "id": "F002",
+        "severity": "major",
+        "category": "consistency",
+        "rule_text": "The proposer name, risk location and sum insured must agree across all documents in the folder. Treat ordinary abbreviations of the same name or address as agreement."
+      }
+    ],
+    "audit": {
+      "score": 65,
+      "status": "Fail - Critical Action Needed",
+      "deductions": [
+        {
+          "rule_id": "STR-002",
+          "points": 25,
+          "summary": "Required document missing: Inspection Report."
+        },
+        {
+          "rule_id": "POL-002",
+          "points": 10,
+          "summary": "The proposer name does not agree between the application and the risk assessment."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "STR-002"
+      ],
+      "rationale": "We recommend a hold on this renewal due to a compliance escalation caused by a missing Inspection Report [STR-002]. Additionally, the proposer name does not agree between the application and the risk assessment [POL-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200010_Application_2026-01-27.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200010",
+          "quote": "Proposal Ref No.: POL200010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-27",
+          "quote": "Dated: 27/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-02-26",
+          "quote": "Cover Commences On: 26/02/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Kaveri Auto Components Ltd",
+          "quote": "Name of Insured: Kaveri Auto Components Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Premises Address: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "300,000,000",
+          "quote": "Amount Insured (INR): 300,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal for Kaveri Auto Components Ltd."
+      },
+      "POL200010_Risk_Assessment_2026-01-31.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200010",
+          "quote": "POL200010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-31",
+          "quote": "31/01/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Tapti Chemicals Ltd",
+          "quote": "Tapti Chemicals Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "300,000,000",
+          "quote": "300,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note assessing Tapti Chemicals Ltd for proposal reference POL200010."
+      },
+      "POL200010_Signed_Disclosure_2026-02-10.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200010",
+          "quote": "Proposal Ref No.: POL200010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-10",
+          "quote": "Dated: 10/02/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Kaveri Auto Components Ltd",
+          "quote": "Name of Insured: Kaveri Auto Components Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions for Kaveri Auto Components Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200010_Application_2026-01-27.pdf": [
+        "CNT-001",
+        "POL-002",
+        "STR-002",
+        "CNT-002",
+        "SIG-001",
+        "SIG-002",
+        "REN-001",
+        "DAT-002",
+        "STR-001",
+        "NAM-001"
+      ],
+      "POL200010_Risk_Assessment_2026-01-31.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "REN-001",
+        "POL-002",
+        "NAM-001",
+        "CNT-001"
+      ],
+      "POL200010_Signed_Disclosure_2026-02-10.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "FRM-001",
+        "STR-002",
+        "DAT-002",
+        "SIG-001",
+        "SIG-003",
+        "POL-002",
+        "CNT-001",
+        "SIG-004"
+      ]
+    }
+  },
+  "POL200011": {
+    "folder": "POL200011",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-001",
+        "summary": "The signature line is blank.",
+        "document": "POL200011_Application_2026-02-21.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: ------------------------",
+        "page": 1,
+        "verification": "no_text_layer",
+        "confidence_band": "MEDIUM",
+        "id": "F001",
+        "severity": "critical",
+        "category": "signature",
+        "rule_text": "The Application must carry the proposer's signature. A blank signature line, or a printed name with no signature, does not satisfy this rule."
+      }
+    ],
+    "audit": {
+      "score": 75,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "SIG-001",
+          "points": 25,
+          "summary": "The signature line is blank."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "SIG-001"
+      ],
+      "rationale": "We recommend placing a hold on this renewal pending a compliance escalation. This action is required because the signature line is blank [SIG-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200011_Application_2026-02-21.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200011",
+          "quote": "Proposal Ref No.: POL200011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-21",
+          "quote": "Dated: 21/02/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-03-23",
+          "quote": "Cover Commences On: 23/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Name of Insured: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "820,000,000",
+          "quote": "Amount Insured (INR): 820,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": false,
+          "quote": "Signature: --------------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an unsigned commercial property cover proposal for Malabar Spice Traders."
+      },
+      "POL200011_Inspection_Report_2026-03-02.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200011",
+          "quote": "Proposal Ref No.: POL200011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-02",
+          "quote": "Dated: 02/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Name of Insured: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "820,000,000",
+          "quote": "Amount Insured (INR): 820,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ---------------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor inspection report detailing the risk and premises conditions for Malabar Spice Traders."
+      },
+      "POL200011_Risk_Assessment_2026-02-25.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200011",
+          "quote": "Proposal Ref No.: POL200011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-25",
+          "quote": "Dated: 25/02/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Name of Insured: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Premises Address: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "820,000,000",
+          "quote": "Amount Insured (INR): 820,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Hazard Classification: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ~~~~~~",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk assessment note for Malabar Spice Traders with a low hazard classification."
+      },
+      "POL200011_Signed_Disclosure_2026-03-07.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200011",
+          "quote": "Proposal Ref No.: POL200011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-07",
+          "quote": "Dated: 07/03/2026",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Name of Insured: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ------------------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure outlining policy exclusions for Malabar Spice Traders."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200011_Application_2026-02-21.pdf": [
+        "CNT-001",
+        "SIG-001",
+        "SIG-002",
+        "CNT-002",
+        "STR-002",
+        "POL-002",
+        "SIG-003",
+        "DAT-002",
+        "REN-001",
+        "CNT-003"
+      ],
+      "POL200011_Inspection_Report_2026-03-02.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "SIG-003",
+        "NAM-001"
+      ],
+      "POL200011_Risk_Assessment_2026-02-25.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "REN-002",
+        "POL-002",
+        "NAM-001",
+        "DAT-003",
+        "REN-001"
+      ],
+      "POL200011_Signed_Disclosure_2026-03-07.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "POL-002",
+        "SIG-004",
+        "CNT-003"
+      ]
+    }
+  },
+  "POL200012": {
+    "folder": "POL200012",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "CNT-002",
+        "summary": "The document contains the acknowledgement statement but does not list any policy exclusions.",
+        "document": "POL200012_Signed_Disclosure_2023-02-13.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "I acknowledge receipt of this disclosure and accept its terms.",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Signed Disclosure must include the proposer's acknowledgement statement and must list the policy exclusions. A disclosure without the exclusions section is incomplete."
+      },
+      {
+        "rule_id": "DAT-003",
+        "summary": "Inspection dated 2023-02-08 is over 36 months old.",
+        "document": "POL200012_Inspection_Report_2023-02-08.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Dated: 08/02/2023",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "major",
+        "category": "expiry",
+        "rule_text": "An Inspection Report older than 36 months on the audit date has expired and a fresh inspection is required."
+      }
+    ],
+    "audit": {
+      "score": 80,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "CNT-002",
+          "points": 10,
+          "summary": "The document contains the acknowledgement statement but does not list any policy exclusions."
+        },
+        {
+          "rule_id": "DAT-003",
+          "points": 10,
+          "summary": "Inspection dated 2023-02-08 is over 36 months old."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "CNT-002",
+        "DAT-003"
+      ],
+      "rationale": "This renewal requires manual underwriter review because the audit status is set to review required [CNT-002]. Additionally, the inspection dated 2023-02-08 is over 36 months old [DAT-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL200012_Application_2023-01-30.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "PROPOSAL FOR COMMERCIAL PROPERTY COVER",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200012",
+          "quote": "Proposal Ref No.: POL200012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2023-01-30",
+          "quote": "Dated: 30/01/2023",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2023-03-01",
+          "quote": "Cover Commences On: 01/03/2023",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "730,000,000",
+          "quote": "Amount Insured (INR): 730,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a commercial property cover proposal for Konkan Packaging Works."
+      },
+      "POL200012_Inspection_Report_2023-02-08.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "SURVEYOR'S REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200012",
+          "quote": "Proposal Ref No.: POL200012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2023-02-08",
+          "quote": "Dated: 08/02/2023",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "730,000,000",
+          "quote": "Amount Insured (INR): 730,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a surveyor's report detailing the inspection of Konkan Packaging Works' premises in Hyderabad."
+      },
+      "POL200012_Risk_Assessment_2023-02-03.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "UNDERWRITING RISK NOTE",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200012",
+          "quote": "Proposal Ref No.: POL200012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2023-02-03",
+          "quote": "Dated: 03/02/2023",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Premises Address: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "730,000,000",
+          "quote": "Amount Insured (INR): 730,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Hazard Classification: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an underwriting risk note detailing the proposal reference, insured name, premises address, amount insured, date, and hazard classification."
+      },
+      "POL200012_Signed_Disclosure_2023-02-13.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "KEY INFORMATION AND ACKNOWLEDGEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL200012",
+          "quote": "Proposal Ref No.: POL200012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2023-02-13",
+          "quote": "Dated: 13/02/2023",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Name of Insured: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Ref: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed key information and acknowledgement disclosure for Konkan Packaging Works."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL200012_Application_2023-01-30.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "CNT-002",
+        "SIG-001",
+        "SIG-002",
+        "DAT-002",
+        "REN-001",
+        "DAT-001",
+        "STR-001"
+      ],
+      "POL200012_Inspection_Report_2023-02-08.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-001",
+        "CNT-003",
+        "CNT-002"
+      ],
+      "POL200012_Risk_Assessment_2023-02-03.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "NAM-001",
+        "POL-002",
+        "CNT-001",
+        "CNT-004"
+      ],
+      "POL200012_Signed_Disclosure_2023-02-13.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "FRM-001",
+        "STR-002",
+        "SIG-001",
+        "SIG-003",
+        "DAT-002",
+        "SIG-004",
+        "POL-002",
+        "CNT-003"
+      ]
+    }
+  }
+}

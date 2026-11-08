@@ -1,0 +1,12 @@
+venv/
+.env
+audit_log/
+__pycache__/
+.DS_Store
+.env*
+!.env.example
+*.pyc
+.pytest_cache/
+# iCloud duplicate copies
+* 2.*
+* 2

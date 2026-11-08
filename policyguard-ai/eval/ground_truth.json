@@ -1,0 +1,254 @@
+{
+  "as_of": "2026-11-01",
+  "folders": {
+    "POL100001": {
+      "split": "dev",
+      "defects": [],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Renewal - Underwriter Approval Required"
+    },
+    "POL100002": {
+      "split": "dev",
+      "defects": [
+        "scanned"
+      ],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Renewal - Underwriter Approval Required"
+    },
+    "POL100003": {
+      "split": "dev",
+      "defects": [
+        "missing_doc"
+      ],
+      "expected_rules": [
+        "STR-002"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL100004": {
+      "split": "dev",
+      "defects": [
+        "bad_name",
+        "unsigned_app"
+      ],
+      "expected_rules": [
+        "NAM-001",
+        "SIG-001"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL100005": {
+      "split": "dev",
+      "defects": [
+        "wrong_policy"
+      ],
+      "expected_rules": [
+        "POL-001"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL100006": {
+      "split": "dev",
+      "defects": [
+        "date_order",
+        "old_form"
+      ],
+      "expected_rules": [
+        "DAT-001",
+        "FRM-001"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL100007": {
+      "split": "dev",
+      "defects": [
+        "unsigned_disclosure",
+        "scanned"
+      ],
+      "expected_rules": [
+        "SIG-002"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL100008": {
+      "split": "dev",
+      "defects": [
+        "expired"
+      ],
+      "expected_rules": [
+        "DAT-003"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL100009": {
+      "split": "dev",
+      "defects": [
+        "missing_sum",
+        "name_conflict"
+      ],
+      "expected_rules": [
+        "CNT-001",
+        "POL-002"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL100010": {
+      "split": "dev",
+      "defects": [
+        "duplicate"
+      ],
+      "expected_rules": [
+        "NAM-001",
+        "STR-003"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL100011": {
+      "split": "dev",
+      "defects": [
+        "high_grade"
+      ],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL100012": {
+      "split": "dev",
+      "defects": [
+        "after_effective",
+        "missing_exclusions"
+      ],
+      "expected_rules": [
+        "CNT-002",
+        "DAT-002"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200001": {
+      "split": "holdout",
+      "defects": [],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Renewal - Underwriter Approval Required"
+    },
+    "POL200002": {
+      "split": "holdout",
+      "defects": [
+        "scanned"
+      ],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Renewal - Underwriter Approval Required"
+    },
+    "POL200003": {
+      "split": "holdout",
+      "defects": [
+        "high_grade"
+      ],
+      "expected_rules": [],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200004": {
+      "split": "holdout",
+      "defects": [
+        "legacy_name",
+        "unsigned_risk"
+      ],
+      "expected_rules": [
+        "NAM-001",
+        "SIG-003"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200005": {
+      "split": "holdout",
+      "defects": [
+        "foreign_name"
+      ],
+      "expected_rules": [
+        "NAM-001",
+        "STR-001"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200006": {
+      "split": "holdout",
+      "defects": [
+        "filename_date",
+        "no_fire"
+      ],
+      "expected_rules": [
+        "CNT-004",
+        "NAM-002"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200007": {
+      "split": "holdout",
+      "defects": [
+        "wrong_policy",
+        "date_order",
+        "scanned"
+      ],
+      "expected_rules": [
+        "DAT-001",
+        "POL-001"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL200008": {
+      "split": "holdout",
+      "defects": [
+        "unsigned_inspection"
+      ],
+      "expected_rules": [
+        "SIG-004"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200009": {
+      "split": "holdout",
+      "defects": [
+        "missing_grade",
+        "old_form"
+      ],
+      "expected_rules": [
+        "CNT-003",
+        "FRM-001"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    },
+    "POL200010": {
+      "split": "holdout",
+      "defects": [
+        "missing_doc",
+        "name_conflict"
+      ],
+      "expected_rules": [
+        "POL-002",
+        "STR-002"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL200011": {
+      "split": "holdout",
+      "defects": [
+        "unsigned_app",
+        "scanned"
+      ],
+      "expected_rules": [
+        "SIG-001"
+      ],
+      "expected_renewal": "Recommend Hold - Compliance Escalation"
+    },
+    "POL200012": {
+      "split": "holdout",
+      "defects": [
+        "expired",
+        "missing_exclusions"
+      ],
+      "expected_rules": [
+        "CNT-002",
+        "DAT-003"
+      ],
+      "expected_renewal": "Recommend Manual Underwriter Review"
+    }
+  }
+}

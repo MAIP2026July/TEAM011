@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+*.egg-info/
+.pytest_cache/
+
+# iCloud duplicate copies
+* 2.*
+* 2
+
+# VS Code
+.vscode/
+
+# Secrets / environment files
+.env*
+!.env.example
+!.env 2.example
+
+# Audit logs (runtime output)
+policyguard-ai/audit_log/

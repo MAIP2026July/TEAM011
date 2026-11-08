@@ -1,0 +1,4208 @@
+{
+  "POL100001": {
+    "folder": "POL100001",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Renewal - Underwriter Approval Required",
+      "rule_ids": [
+        "REN-003"
+      ],
+      "rationale": "No findings were detected [REN-003]. An authorised underwriter must make the decision [REN-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100001_Application_2026-07-23.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100001",
+          "quote": "Policy Number: POL100001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-23",
+          "quote": "Date: 2026-07-23",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-08-22",
+          "quote": "Effective Date: 2026-08-22",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Proposer: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Risk Location: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "640,000,000",
+          "quote": "Sum Insured: 640,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Konkan Packaging Works."
+      },
+      "POL100001_Inspection_Report_2026-08-01.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100001",
+          "quote": "Policy Number: POL100001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-08-01",
+          "quote": "Date: 2026-08-01",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Proposer: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Risk Location: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "640,000,000",
+          "quote": "Sum Insured: 640,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report detailing property condition, fire protection, and surveyor details for policy number POL100001."
+      },
+      "POL100001_Risk_Assessment_2026-07-27.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100001",
+          "quote": "Policy Number: POL100001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-27",
+          "quote": "Date: 2026-07-27",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Proposer: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Block C, Noida Sector 63",
+          "quote": "Risk Location: Block C, Noida Sector 63",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "640,000,000",
+          "quote": "Sum Insured: 640,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report evaluating the risk grade and details for Konkan Packaging Works under policy POL100001."
+      },
+      "POL100001_Signed_Disclosure_2026-08-06.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100001",
+          "quote": "Policy Number: POL100001",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-08-06",
+          "quote": "Date: 2026-08-06",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Konkan Packaging Works",
+          "quote": "Proposer: Konkan Packaging Works",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement for Konkan Packaging Works outlining policy exclusions and terms."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100001_Application_2026-07-23.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "CNT-002",
+        "DAT-001",
+        "SIG-002",
+        "DAT-002",
+        "SIG-003",
+        "REN-001"
+      ],
+      "POL100001_Inspection_Report_2026-08-01.pdf": [
+        "CNT-004",
+        "STR-002",
+        "SIG-004",
+        "DAT-003",
+        "NAM-001",
+        "DAT-002",
+        "POL-002",
+        "DAT-001",
+        "STR-001",
+        "REN-001"
+      ],
+      "POL100001_Risk_Assessment_2026-07-27.pdf": [
+        "CNT-003",
+        "STR-002",
+        "SIG-003",
+        "DAT-002",
+        "REN-002",
+        "DAT-001",
+        "REN-001",
+        "NAM-001",
+        "STR-001",
+        "POL-002"
+      ],
+      "POL100001_Signed_Disclosure_2026-08-06.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "DAT-002",
+        "FRM-001",
+        "SIG-003",
+        "SIG-001",
+        "POL-002",
+        "SIG-004",
+        "CNT-001"
+      ]
+    }
+  },
+  "POL100002": {
+    "folder": "POL100002",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Renewal - Underwriter Approval Required",
+      "rule_ids": [
+        "REN-003"
+      ],
+      "rationale": "No findings were detected [REN-003]. An authorised underwriter must make the decision [REN-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100002_Application_2026-07-23.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100002",
+          "quote": "Policy Number: POL100002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-23",
+          "quote": "Date: 2026-07-23",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-08-22",
+          "quote": "Effective Date: 2026-08-22",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Proposer: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "390,000,000",
+          "quote": "Sum Insured: 390,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Satpura Plastics Pvt Ltd with policy number POL100002."
+      },
+      "POL100002_Inspection_Report_2026-08-01.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100002",
+          "quote": "Policy Number: POL100002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-08-01",
+          "quote": "Date: 2026-08-01",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Proposer: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "390,000,000",
+          "quote": "Sum Insured: 390,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Satpura Plastics Pvt Ltd detailing property conditions and surveyor information."
+      },
+      "POL100002_Risk_Assessment_2026-07-27.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100002",
+          "quote": "Policy Number: POL100002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-27",
+          "quote": "Date: 2026-07-27",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Proposer: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "390,000,000",
+          "quote": "Sum Insured: 390,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _______________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Satpura Plastics Pvt Ltd detailing policy details, risk location, sum insured, risk grade, and an underwriter signature."
+      },
+      "POL100002_Signed_Disclosure_2026-08-06.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100002",
+          "quote": "Policy Number: POL100002",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-08-06",
+          "quote": "Date: 2026-08-06",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Satpura Plastics Pvt Ltd",
+          "quote": "Proposer: Satpura Plastics Pvt Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: _________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Satpura Plastics Pvt Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100002_Application_2026-07-23.pdf": [
+        "CNT-001",
+        "STR-002",
+        "STR-001",
+        "POL-002",
+        "NAM-001",
+        "POL-001",
+        "CNT-002",
+        "SIG-001",
+        "REN-001",
+        "DAT-002"
+      ],
+      "POL100002_Inspection_Report_2026-08-01.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "NAM-001",
+        "NAM-002",
+        "CNT-002"
+      ],
+      "POL100002_Risk_Assessment_2026-07-27.pdf": [
+        "SIG-003",
+        "CNT-003",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "REN-002",
+        "NAM-001",
+        "DAT-001",
+        "REN-001",
+        "CNT-002"
+      ],
+      "POL100002_Signed_Disclosure_2026-08-06.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "POL-002",
+        "SIG-003",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100003": {
+    "folder": "POL100003",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "STR-002",
+        "summary": "Required document missing: Inspection Report.",
+        "document": "Folder",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "critical",
+        "category": "structure",
+        "rule_text": "Every policy folder must contain one Application, one Risk Assessment, one Inspection Report and one Signed Disclosure."
+      }
+    ],
+    "audit": {
+      "score": 75,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "STR-002",
+          "points": 25,
+          "summary": "Required document missing: Inspection Report."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "STR-002"
+      ],
+      "rationale": "A Hold - Compliance Escalation is recommended for this policy [STR-002]. This status is based on open critical findings regarding a missing required Inspection Report [STR-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100003_Application_2026-03-16.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100003",
+          "quote": "Policy Number: POL100003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-16",
+          "quote": "Date: 2026-03-16",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-04-15",
+          "quote": "Effective Date: 2026-04-15",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Shed 9, Ambattur Estate, Chennai",
+          "quote": "Risk Location: Shed 9, Ambattur Estate, Chennai",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "110,000,000",
+          "quote": "Sum Insured: 110,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application submitted by Nilgiri Tea Exports for a risk location in Chennai with a sum insured of 110,000,000."
+      },
+      "POL100003_Risk_Assessment_2026-03-20.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100003",
+          "quote": "Policy Number: POL100003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-20",
+          "quote": "Date: 2026-03-20",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Shed 9, Ambattur Estate, Chennai",
+          "quote": "Risk Location: Shed 9, Ambattur Estate, Chennai",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "110,000,000",
+          "quote": "Sum Insured: 110,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Low",
+          "quote": "Risk Grade: Low",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Nilgiri Tea Exports evaluating risk for policy POL100003."
+      },
+      "POL100003_Signed_Disclosure_2026-03-30.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100003",
+          "quote": "Policy Number: POL100003",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-30",
+          "quote": "Date: 2026-03-30",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Nilgiri Tea Exports under policy POL100003."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100003_Application_2026-03-16.pdf": [
+        "CNT-001",
+        "POL-002",
+        "STR-002",
+        "SIG-001",
+        "CNT-002",
+        "DAT-001",
+        "SIG-003",
+        "CNT-003",
+        "SIG-002",
+        "DAT-002"
+      ],
+      "POL100003_Risk_Assessment_2026-03-20.pdf": [
+        "CNT-003",
+        "REN-001",
+        "STR-001",
+        "SIG-003",
+        "STR-002",
+        "REN-002",
+        "NAM-001",
+        "DAT-001",
+        "DAT-002",
+        "DAT-003"
+      ],
+      "POL100003_Signed_Disclosure_2026-03-30.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "DAT-002",
+        "FRM-001",
+        "POL-002",
+        "SIG-003",
+        "NAM-001",
+        "STR-001",
+        "SIG-001"
+      ]
+    }
+  },
+  "POL100004": {
+    "folder": "POL100004",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-001",
+        "summary": "The signature line is left blank.",
+        "document": "POL100004_App_2026-04-28.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: ____________________",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "critical",
+        "category": "signature",
+        "rule_text": "The Application must carry the proposer's signature. A blank signature line, or a printed name with no signature, does not satisfy this rule."
+      },
+      {
+        "rule_id": "NAM-001",
+        "summary": "Name does not follow the standard for Application.",
+        "document": "POL100004_App_2026-04-28.pdf",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "minor",
+        "category": "naming",
+        "rule_text": "File names must follow PolicyNumber_DocumentType_YYYY-MM-DD.pdf, for example POL123456_Risk_Assessment_2025-03-14.pdf, using the standard document type names."
+      }
+    ],
+    "audit": {
+      "score": 70,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "SIG-001",
+          "points": 25,
+          "summary": "The signature line is left blank."
+        },
+        {
+          "rule_id": "NAM-001",
+          "points": 5,
+          "summary": "Name does not follow the standard for Application."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "SIG-001"
+      ],
+      "rationale": "I recommend a hold on this renewal due to a compliance escalation. This hold is based on open critical findings, including that the signature line is left blank [SIG-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100004_App_2026-04-28.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100004",
+          "quote": "Policy Number: POL100004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-28",
+          "quote": "Date: 2026-04-28",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-05-28",
+          "quote": "Effective Date: 2026-05-28",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "790,000,000",
+          "quote": "Sum Insured: 790,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": false,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an unsigned insurance application submitted by Narmada Cold Storage LLP for policy number POL100004."
+      },
+      "POL100004_Inspection_Report_2026-05-07.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100004",
+          "quote": "Policy Number: POL100004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-07",
+          "quote": "Date: 2026-05-07",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "790,000,000",
+          "quote": "Sum Insured: 790,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report evaluating the property condition, fire protection, and other risk details for Narmada Cold Storage LLP."
+      },
+      "POL100004_Risk_Assessment_2026-05-02.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100004",
+          "quote": "Policy Number: POL100004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-02",
+          "quote": "Date: 2026-05-02",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Unit 7, Peenya Industrial Area, Bengaluru",
+          "quote": "Risk Location: Unit 7, Peenya Industrial Area, Bengaluru",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "790,000,000",
+          "quote": "Sum Insured: 790,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Narmada Cold Storage LLP assigning a medium risk grade."
+      },
+      "POL100004_Signed_Disclosure_2026-05-12.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100004",
+          "quote": "Policy Number: POL100004",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-05-12",
+          "quote": "Date: 2026-05-12",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Narmada Cold Storage LLP."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100004_App_2026-04-28.pdf": [
+        "CNT-001",
+        "SIG-001",
+        "STR-002",
+        "CNT-002",
+        "POL-002",
+        "SIG-002",
+        "STR-001",
+        "NAM-001",
+        "SIG-003",
+        "POL-001"
+      ],
+      "POL100004_Inspection_Report_2026-05-07.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "NAM-001",
+        "REN-001",
+        "CNT-003"
+      ],
+      "POL100004_Risk_Assessment_2026-05-02.pdf": [
+        "CNT-003",
+        "DAT-001",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "REN-002",
+        "DAT-003",
+        "NAM-001",
+        "REN-001",
+        "POL-002"
+      ],
+      "POL100004_Signed_Disclosure_2026-05-12.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "POL-002",
+        "SIG-001",
+        "SIG-003",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100005": {
+    "folder": "POL100005",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "POL-001",
+        "summary": "Document shows POL888888; folder is POL100005.",
+        "document": "POL100005_Risk_Assessment_2026-06-13.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Policy Number: POL888888",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "critical",
+        "category": "consistency",
+        "rule_text": "The policy number printed inside every document must equal the policy number of the folder."
+      }
+    ],
+    "audit": {
+      "score": 75,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "POL-001",
+          "points": 25,
+          "summary": "Document shows POL888888; folder is POL100005."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "POL-001"
+      ],
+      "rationale": "We recommend a hold on this renewal due to a compliance escalation. This status is based on an open critical finding where the document shows POL888888 while the folder is POL100005 [POL-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100005_Application_2026-06-09.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100005",
+          "quote": "Policy Number: POL100005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-09",
+          "quote": "Date: 2026-06-09",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-07-09",
+          "quote": "Effective Date: 2026-07-09",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Deccan Paper Mills Ltd",
+          "quote": "Proposer: Deccan Paper Mills Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Sum Insured: 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Deccan Paper Mills Ltd with a sum insured of 560,000,000."
+      },
+      "POL100005_Inspection_Report_2026-06-18.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100005",
+          "quote": "Policy Number: POL100005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-18",
+          "quote": "Date: 2026-06-18",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Deccan Paper Mills Ltd",
+          "quote": "Proposer: Deccan Paper Mills Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Sum Insured: 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Deccan Paper Mills Ltd detailing property condition and fire protection measures."
+      },
+      "POL100005_Risk_Assessment_2026-06-13.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL888888",
+          "quote": "Policy Number: POL888888",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-13",
+          "quote": "Date: 2026-06-13",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Deccan Paper Mills Ltd",
+          "quote": "Proposer: Deccan Paper Mills Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "560,000,000",
+          "quote": "Sum Insured: 560,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Deccan Paper Mills Ltd, assigning a medium risk grade."
+      },
+      "POL100005_Signed_Disclosure_2026-06-23.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100005",
+          "quote": "Policy Number: POL100005",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-23",
+          "quote": "Date: 2026-06-23",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Deccan Paper Mills Ltd",
+          "quote": "Proposer: Deccan Paper Mills Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Deccan Paper Mills Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100005_Application_2026-06-09.pdf": [
+        "CNT-001",
+        "POL-002",
+        "STR-002",
+        "SIG-001",
+        "CNT-002",
+        "SIG-002",
+        "SIG-003",
+        "DAT-001",
+        "DAT-002",
+        "NAM-001"
+      ],
+      "POL100005_Inspection_Report_2026-06-18.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "STR-002",
+        "DAT-001",
+        "POL-002",
+        "DAT-002",
+        "CNT-001",
+        "NAM-001",
+        "CNT-003"
+      ],
+      "POL100005_Risk_Assessment_2026-06-13.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "DAT-001",
+        "REN-002",
+        "STR-002",
+        "DAT-002",
+        "REN-001",
+        "DAT-003",
+        "NAM-001",
+        "POL-002"
+      ],
+      "POL100005_Signed_Disclosure_2026-06-23.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100006": {
+    "folder": "POL100006",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "DAT-001",
+        "summary": "Risk Assessment (2026-01-11) predates the Application (2026-01-14).",
+        "document": "POL100006_Risk_Assessment_2026-01-11.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Date: 2026-01-11",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "consistency",
+        "rule_text": "The Risk Assessment and the Inspection Report must be dated on or after the Application date. A Risk Assessment dated before the Application is an inconsistency."
+      },
+      {
+        "rule_id": "FRM-001",
+        "summary": "Withdrawn form version DF-2021.",
+        "document": "POL100006_Signed_Disclosure_2026-01-28.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Form Version: DF-2021",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Signed Disclosure must use form version DF-2024 or later. Earlier form versions are withdrawn and must not be used."
+      }
+    ],
+    "audit": {
+      "score": 80,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "DAT-001",
+          "points": 10,
+          "summary": "Risk Assessment (2026-01-11) predates the Application (2026-01-14)."
+        },
+        {
+          "rule_id": "FRM-001",
+          "points": 10,
+          "summary": "Withdrawn form version DF-2021."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "DAT-001",
+        "FRM-001"
+      ],
+      "rationale": "This renewal recommendation is Manual Underwriter Review because the audit status is 'Review Required'. The findings that need review first are that the Risk Assessment (2026-01-11) predates the Application (2026-01-14) [DAT-001], and there is a withdrawn form version DF-2021 [FRM-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100006_Application_2026-01-14.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100006",
+          "quote": "Policy Number: POL100006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-14",
+          "quote": "Date: 2026-01-14",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-02-13",
+          "quote": "Effective Date: 2026-02-13",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "520,000,000",
+          "quote": "Sum Insured: 520,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Nilgiri Tea Exports requesting coverage under policy number POL100006."
+      },
+      "POL100006_Inspection_Report_2026-01-23.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100006",
+          "quote": "Policy Number: POL100006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-23",
+          "quote": "Date: 2026-01-23",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "520,000,000",
+          "quote": "Sum Insured: 520,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for policy POL100006 detailing property condition and fire protection."
+      },
+      "POL100006_Risk_Assessment_2026-01-11.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100006",
+          "quote": "Policy Number: POL100006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-11",
+          "quote": "Date: 2026-01-11",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "520,000,000",
+          "quote": "Sum Insured: 520,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Nilgiri Tea Exports evaluating a medium risk grade property with a sum insured of 520,000,000."
+      },
+      "POL100006_Signed_Disclosure_2026-01-28.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100006",
+          "quote": "Policy Number: POL100006",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-28",
+          "quote": "Date: 2026-01-28",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2021",
+          "quote": "Form Version: DF-2021",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Nilgiri Tea Exports."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100006_Application_2026-01-14.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "CNT-002",
+        "STR-001",
+        "SIG-001",
+        "NAM-001",
+        "REN-001",
+        "DAT-001",
+        "DAT-002"
+      ],
+      "POL100006_Inspection_Report_2026-01-23.pdf": [
+        "CNT-004",
+        "STR-002",
+        "DAT-003",
+        "DAT-002",
+        "SIG-004",
+        "DAT-001",
+        "NAM-001",
+        "STR-001",
+        "POL-002",
+        "REN-001"
+      ],
+      "POL100006_Risk_Assessment_2026-01-11.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "CNT-004",
+        "NAM-001",
+        "REN-001"
+      ],
+      "POL100006_Signed_Disclosure_2026-01-28.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100007": {
+    "folder": "POL100007",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "SIG-002",
+        "summary": "The signature line is blank and does not carry the proposer's signature.",
+        "document": "POL100007_Signed_Disclosure_2026-02-14.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Signature: ------------------------",
+        "page": 1,
+        "verification": "no_text_layer",
+        "confidence_band": "MEDIUM",
+        "id": "F001",
+        "severity": "critical",
+        "category": "signature",
+        "rule_text": "The Signed Disclosure must carry the proposer's signature, confirming that the proposer received and acknowledged the disclosure."
+      }
+    ],
+    "audit": {
+      "score": 75,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "SIG-002",
+          "points": 25,
+          "summary": "The signature line is blank and does not carry the proposer's signature."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Hold - Compliance Escalation",
+      "rule_ids": [
+        "REN-001",
+        "SIG-002"
+      ],
+      "rationale": "I recommend a hold on this renewal due to a compliance escalation because the signature line is blank and does not carry the proposer's signature [SIG-002]. This open critical finding must be resolved before further action can be taken [SIG-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100007_Application_2026-01-31.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100007",
+          "quote": "Policy Number: POL100007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-31",
+          "quote": "Date: 2026-01-31",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-03-02",
+          "quote": "Effective Date: 2026-03-02",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "450,000,000",
+          "quote": "Sum Insured: 450,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application submitted by Narmada Cold Storage LLP for policy POL100007."
+      },
+      "POL100007_Inspection_Report_2026-02-09.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100007",
+          "quote": "Policy Number: POL100007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-09",
+          "quote": "Date: 2026-02-09",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "450,000,000",
+          "quote": "Sum Insured: 450,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Narmada Cold Storage LLP detailing the property condition and surveyor observations."
+      },
+      "POL100007_Risk_Assessment_2026-02-04.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100007",
+          "quote": "Policy Number: POL100007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-04",
+          "quote": "Date: 2026-02-04",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "450,000,000",
+          "quote": "Sum Insured: 450,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Narmada Cold Storage LLP assessing the risk at Plot 14, MIDC Bhosari, Pune as Medium with a sum insured of 450,000,000."
+      },
+      "POL100007_Signed_Disclosure_2026-02-14.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100007",
+          "quote": "Policy Number: POL100007",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-14",
+          "quote": "Date: 2026-02-14",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Narmada Cold Storage LLP",
+          "quote": "Proposer: Narmada Cold Storage LLP",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": false,
+          "quote": "Signature: --------------------",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an unsigned disclosure agreement detailing policy exclusions for Narmada Cold Storage LLP."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100007_Application_2026-01-31.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "STR-001",
+        "SIG-001",
+        "CNT-002",
+        "NAM-001",
+        "REN-001",
+        "DAT-002",
+        "DAT-001"
+      ],
+      "POL100007_Inspection_Report_2026-02-09.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-002",
+        "CNT-003"
+      ],
+      "POL100007_Risk_Assessment_2026-02-04.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "NAM-001",
+        "REN-002",
+        "CNT-001",
+        "REN-001"
+      ],
+      "POL100007_Signed_Disclosure_2026-02-14.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "FRM-001",
+        "STR-002",
+        "SIG-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-004",
+        "CNT-001"
+      ]
+    }
+  },
+  "POL100008": {
+    "folder": "POL100008",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "DAT-003",
+        "summary": "Inspection dated 2022-08-16 is over 36 months old.",
+        "document": "POL100008_Inspection_Report_2022-08-16.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Date: 2022-08-16",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "expiry",
+        "rule_text": "An Inspection Report older than 36 months on the audit date has expired and a fresh inspection is required."
+      }
+    ],
+    "audit": {
+      "score": 90,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "DAT-003",
+          "points": 10,
+          "summary": "Inspection dated 2022-08-16 is over 36 months old."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "DAT-003"
+      ],
+      "rationale": "We recommend manual underwriter review for this policy [DAT-003]. This recommendation is based on the inspection dated 2022-08-16 being over 36 months old, which requires audit review [DAT-003].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100008_Application_2022-08-07.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100008",
+          "quote": "Policy Number: POL100008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2022-08-07",
+          "quote": "Date: 2022-08-07",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2022-09-06",
+          "quote": "Effective Date: 2022-09-06",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Proposer: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "660,000,000",
+          "quote": "Sum Insured: 660,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Aravalli Ceramics Ltd requesting coverage starting 2022-09-06."
+      },
+      "POL100008_Inspection_Report_2022-08-16.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100008",
+          "quote": "Policy Number: POL100008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2022-08-16",
+          "quote": "Date: 2022-08-16",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Proposer: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "660,000,000",
+          "quote": "Sum Insured: 660,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Aravalli Ceramics Ltd evaluating property condition and fire protection."
+      },
+      "POL100008_Risk_Assessment_2022-08-11.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100008",
+          "quote": "Policy Number: POL100008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2022-08-11",
+          "quote": "Date: 2022-08-11",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Proposer: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "660,000,000",
+          "quote": "Sum Insured: 660,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Aravalli Ceramics Ltd detailing a medium risk grade and a sum insured of 660,000,000."
+      },
+      "POL100008_Signed_Disclosure_2022-08-21.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100008",
+          "quote": "Policy Number: POL100008",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2022-08-21",
+          "quote": "Date: 2022-08-21",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Aravalli Ceramics Ltd",
+          "quote": "Proposer: Aravalli Ceramics Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Aravalli Ceramics Ltd."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100008_Application_2022-08-07.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "CNT-002",
+        "SIG-001",
+        "NAM-001",
+        "DAT-001",
+        "DAT-002",
+        "REN-001",
+        "SIG-002"
+      ],
+      "POL100008_Inspection_Report_2022-08-16.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "NAM-001",
+        "REN-001"
+      ],
+      "POL100008_Risk_Assessment_2022-08-11.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "DAT-001",
+        "REN-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-001",
+        "REN-001"
+      ],
+      "POL100008_Signed_Disclosure_2022-08-21.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "SIG-001",
+        "POL-002",
+        "NAM-001",
+        "SIG-004"
+      ]
+    }
+  },
+  "POL100009": {
+    "folder": "POL100009",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "CNT-001",
+        "summary": "The application is incomplete because the sum insured field is left blank.",
+        "document": "POL100009_Application_2026-03-09.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Sum Insured:",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Application must state the proposer name, the risk location, the sum insured and the requested effective date. Any of these left blank makes the Application incomplete."
+      },
+      {
+        "rule_id": "POL-002",
+        "summary": "The proposer name in the Risk Assessment document is Tapti Chemicals Ltd, which conflicts with Vindhya Steel Fabricators found in the other documents.",
+        "document": "POL100009_Risk_Assessment_2026-03-13.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "Tapti Chemicals Ltd",
+        "page": 0,
+        "verification": "extracted_value",
+        "confidence_band": "MEDIUM",
+        "id": "F002",
+        "severity": "major",
+        "category": "consistency",
+        "rule_text": "The proposer name, risk location and sum insured must agree across all documents in the folder. Treat ordinary abbreviations of the same name or address as agreement."
+      }
+    ],
+    "audit": {
+      "score": 80,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "CNT-001",
+          "points": 10,
+          "summary": "The application is incomplete because the sum insured field is left blank."
+        },
+        {
+          "rule_id": "POL-002",
+          "points": 10,
+          "summary": "The proposer name in the Risk Assessment document is Tapti Chemicals Ltd, which conflicts with Vindhya Steel Fabricators found in the other documents."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "CNT-001",
+        "POL-002"
+      ],
+      "rationale": "We recommend manual underwriter review because the application is incomplete as the sum insured field is left blank [CNT-001]. Additionally, the proposer name in the Risk Assessment document is Tapti Chemicals Ltd, which conflicts with Vindhya Steel Fabricators found in the other documents [POL-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100009_Application_2026-03-09.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100009",
+          "quote": "Policy Number: POL100009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-09",
+          "quote": "Date: 2026-03-09",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-04-08",
+          "quote": "Effective Date: 2026-04-08",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application submitted by Vindhya Steel Fabricators for policy POL100009."
+      },
+      "POL100009_Inspection_Report_2026-03-18.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100009",
+          "quote": "Policy Number: POL100009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-18",
+          "quote": "Date: 2026-03-18",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "290,000,000",
+          "quote": "Sum Insured: 290,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Vindhya Steel Fabricators detailing property conditions and fire protection systems."
+      },
+      "POL100009_Risk_Assessment_2026-03-13.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100009",
+          "quote": "Policy Number: POL100009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-13",
+          "quote": "Date: 2026-03-13",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Tapti Chemicals Ltd",
+          "quote": "Proposer: Tapti Chemicals Ltd",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "290,000,000",
+          "quote": "Sum Insured: 290,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Tapti Chemicals Ltd under policy POL100009."
+      },
+      "POL100009_Signed_Disclosure_2026-03-23.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100009",
+          "quote": "Policy Number: POL100009",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-23",
+          "quote": "Date: 2026-03-23",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions and terms for Vindhya Steel Fabricators."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100009_Application_2026-03-09.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "STR-001",
+        "CNT-002",
+        "SIG-001",
+        "NAM-001",
+        "REN-001",
+        "DAT-001",
+        "DAT-002"
+      ],
+      "POL100009_Inspection_Report_2026-03-18.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "NAM-001",
+        "REN-001"
+      ],
+      "POL100009_Risk_Assessment_2026-03-13.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "NAM-001",
+        "DAT-001",
+        "STR-001",
+        "REN-002",
+        "REN-001",
+        "POL-002"
+      ],
+      "POL100009_Signed_Disclosure_2026-03-23.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-004",
+        "SIG-001",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100010": {
+    "folder": "POL100010",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "STR-003",
+        "summary": "Multiple versions of Signed Disclosure: POL100010_Signed_Disclosure_2026-04-14.pdf, POL100010_Signed_Disclosure_2026-04-14_v2.pdf.",
+        "document": "Folder",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "minor",
+        "category": "structure",
+        "rule_text": "A folder must hold only one current version of each required document. Superseded copies and duplicates must be removed or archived."
+      },
+      {
+        "rule_id": "NAM-001",
+        "summary": "Name does not follow the standard for Signed Disclosure.",
+        "document": "POL100010_Signed_Disclosure_2026-04-14_v2.pdf",
+        "source": "rule",
+        "status": "fail",
+        "quote": "",
+        "page": 0,
+        "verification": "not_applicable",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "minor",
+        "category": "naming",
+        "rule_text": "File names must follow PolicyNumber_DocumentType_YYYY-MM-DD.pdf, for example POL123456_Risk_Assessment_2025-03-14.pdf, using the standard document type names."
+      }
+    ],
+    "audit": {
+      "score": 90,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "STR-003",
+          "points": 5,
+          "summary": "Multiple versions of Signed Disclosure: POL100010_Signed_Disclosure_2026-04-14.pdf, POL100010_Signed_Disclosure_2026-04-14_v2.pdf."
+        },
+        {
+          "rule_id": "NAM-001",
+          "points": 5,
+          "summary": "Name does not follow the standard for Signed Disclosure."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "NAM-001",
+        "STR-003"
+      ],
+      "rationale": "This renewal requires manual underwriter review because the audit status is 'Review Required'. The findings must be reviewed first due to multiple versions of the Signed Disclosure [STR-003] and because the name does not follow the standard for the Signed Disclosure [NAM-001].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100010_Application_2026-03-31.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100010",
+          "quote": "Policy Number: POL100010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-31",
+          "quote": "Date: 2026-03-31",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-04-30",
+          "quote": "Effective Date: 2026-04-30",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "130,000,000",
+          "quote": "Sum Insured: 130,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application submitted by Nilgiri Tea Exports with a requested effective date of 2026-04-30."
+      },
+      "POL100010_Inspection_Report_2026-04-09.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100010",
+          "quote": "Policy Number: POL100010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-09",
+          "quote": "Date: 2026-04-09",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "130,000,000",
+          "quote": "Sum Insured: 130,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Nilgiri Tea Exports detailing property condition and fire protection measures."
+      },
+      "POL100010_Risk_Assessment_2026-04-04.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100010",
+          "quote": "Policy Number: POL100010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-04",
+          "quote": "Date: 2026-04-04",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "130,000,000",
+          "quote": "Sum Insured: 130,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Nilgiri Tea Exports evaluating risk grade and sum insured."
+      },
+      "POL100010_Signed_Disclosure_2026-04-14.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100010",
+          "quote": "Policy Number: POL100010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-14",
+          "quote": "Date: 2026-04-14",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Nilgiri Tea Exports."
+      },
+      "POL100010_Signed_Disclosure_2026-04-14_v2.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100010",
+          "quote": "Policy Number: POL100010",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-04-14",
+          "quote": "Date: 2026-04-14",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Nilgiri Tea Exports",
+          "quote": "Proposer: Nilgiri Tea Exports",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Nilgiri Tea Exports."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100010_Application_2026-03-31.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "SIG-001",
+        "DAT-002",
+        "CNT-002",
+        "DAT-001",
+        "NAM-001",
+        "REN-001",
+        "SIG-002"
+      ],
+      "POL100010_Inspection_Report_2026-04-09.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "REN-001",
+        "CNT-001"
+      ],
+      "POL100010_Risk_Assessment_2026-04-04.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "REN-002",
+        "DAT-002",
+        "DAT-001",
+        "POL-002",
+        "REN-001",
+        "CNT-001",
+        "NAM-001"
+      ],
+      "POL100010_Signed_Disclosure_2026-04-14.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ],
+      "POL100010_Signed_Disclosure_2026-04-14_v2.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100011": {
+    "folder": "POL100011",
+    "as_of": "2026-11-01",
+    "findings": [],
+    "audit": {
+      "score": 100,
+      "status": "Pass - Audit Ready",
+      "deductions": [],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "REN-002"
+      ],
+      "rationale": "This renewal recommendation requires manual underwriter review because the risk grade is high [REN-002]. There are no findings on this policy.",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100011_Application_2026-06-17.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100011",
+          "quote": "Policy Number: POL100011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-17",
+          "quote": "Date: 2026-06-17",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-07-17",
+          "quote": "Effective Date: 2026-07-17",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Proposer: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "200,000,000",
+          "quote": "Sum Insured: 200,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application submitted by Malabar Spice Traders for policy number POL100011."
+      },
+      "POL100011_Inspection_Report_2026-06-26.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100011",
+          "quote": "Policy Number: POL100011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-26",
+          "quote": "Date: 2026-06-26",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Proposer: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "200,000,000",
+          "quote": "Sum Insured: 200,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report detailing the property condition and fire protection of Malabar Spice Traders."
+      },
+      "POL100011_Risk_Assessment_2026-06-21.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100011",
+          "quote": "Policy Number: POL100011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-06-21",
+          "quote": "Date: 2026-06-21",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Proposer: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 3, Patancheru, Hyderabad",
+          "quote": "Risk Location: Plot 3, Patancheru, Hyderabad",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "200,000,000",
+          "quote": "Sum Insured: 200,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "High",
+          "quote": "Risk Grade: High",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report evaluating the risk details for Malabar Spice Traders."
+      },
+      "POL100011_Signed_Disclosure_2026-07-01.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100011",
+          "quote": "Policy Number: POL100011",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-07-01",
+          "quote": "Date: 2026-07-01",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Malabar Spice Traders",
+          "quote": "Proposer: Malabar Spice Traders",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement outlining policy exclusions for Malabar Spice Traders."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100011_Application_2026-06-17.pdf": [
+        "CNT-001",
+        "STR-002",
+        "POL-002",
+        "STR-001",
+        "NAM-001",
+        "SIG-001",
+        "CNT-002",
+        "POL-001",
+        "DAT-001",
+        "REN-001"
+      ],
+      "POL100011_Inspection_Report_2026-06-26.pdf": [
+        "CNT-004",
+        "DAT-003",
+        "SIG-004",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "POL-002",
+        "NAM-001",
+        "CNT-003",
+        "NAM-002"
+      ],
+      "POL100011_Risk_Assessment_2026-06-21.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "DAT-001",
+        "STR-002",
+        "DAT-002",
+        "NAM-001",
+        "DAT-003",
+        "REN-002",
+        "POL-002",
+        "CNT-004"
+      ],
+      "POL100011_Signed_Disclosure_2026-07-01.pdf": [
+        "CNT-002",
+        "SIG-002",
+        "STR-002",
+        "FRM-001",
+        "DAT-002",
+        "SIG-003",
+        "POL-002",
+        "SIG-001",
+        "SIG-004",
+        "NAM-001"
+      ]
+    }
+  },
+  "POL100012": {
+    "folder": "POL100012",
+    "as_of": "2026-11-01",
+    "findings": [
+      {
+        "rule_id": "CNT-002",
+        "summary": "The document includes the acknowledgment statement but completely lacks the policy exclusions section.",
+        "document": "POL100012_Signed_Disclosure_2026-03-03.pdf",
+        "source": "ai",
+        "status": "fail",
+        "quote": "I acknowledge receipt of this disclosure and accept its terms.",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F001",
+        "severity": "major",
+        "category": "content",
+        "rule_text": "The Signed Disclosure must include the proposer's acknowledgement statement and must list the policy exclusions. A disclosure without the exclusions section is incomplete."
+      },
+      {
+        "rule_id": "DAT-002",
+        "summary": "Signed Disclosure (2026-03-03) is after the effective date (2026-02-26).",
+        "document": "POL100012_Signed_Disclosure_2026-03-03.pdf",
+        "source": "ai+rule",
+        "status": "fail",
+        "quote": "Date: 2026-03-03",
+        "page": 1,
+        "verification": "verified",
+        "confidence_band": "HIGH",
+        "id": "F002",
+        "severity": "major",
+        "category": "consistency",
+        "rule_text": "The Risk Assessment, Inspection Report and Signed Disclosure must all be dated on or before the policy effective date."
+      }
+    ],
+    "audit": {
+      "score": 80,
+      "status": "Review Required",
+      "deductions": [
+        {
+          "rule_id": "CNT-002",
+          "points": 10,
+          "summary": "The document includes the acknowledgment statement but completely lacks the policy exclusions section."
+        },
+        {
+          "rule_id": "DAT-002",
+          "points": 10,
+          "summary": "Signed Disclosure (2026-03-03) is after the effective date (2026-02-26)."
+        }
+      ],
+      "reason": ""
+    },
+    "renewal": {
+      "recommendation": "Recommend Manual Underwriter Review",
+      "rule_ids": [
+        "CNT-002",
+        "DAT-002"
+      ],
+      "rationale": "We recommend Manual Underwriter Review because the audit status is 'Review Required' [CNT-002, DAT-002]. The findings require review first, as the document includes the acknowledgment statement but completely lacks the policy exclusions section [CNT-002], and the Signed Disclosure dated 2026-03-03 is after the effective date of 2026-02-26 [DAT-002].",
+      "rationale_source": "ai"
+    },
+    "failed_documents": {},
+    "extractions": {
+      "POL100012_Application_2026-01-27.pdf": {
+        "document_type": {
+          "value": "Application",
+          "quote": "INSURANCE APPLICATION",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100012",
+          "quote": "Policy Number: POL100012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-27",
+          "quote": "Date: 2026-01-27",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "2026-02-26",
+          "quote": "Effective Date: 2026-02-26",
+          "page": 1,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "880,000,000",
+          "quote": "Sum Insured: 880,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an insurance application for Vindhya Steel Fabricators with policy number POL100012."
+      },
+      "POL100012_Inspection_Report_2026-02-05.pdf": {
+        "document_type": {
+          "value": "Inspection_Report",
+          "quote": "INSPECTION REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100012",
+          "quote": "Policy Number: POL100012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-02-05",
+          "quote": "Date: 2026-02-05",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "880,000,000",
+          "quote": "Sum Insured: 880,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature:",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is an inspection report for Vindhya Steel Fabricators detailing property conditions and fire protection measures."
+      },
+      "POL100012_Risk_Assessment_2026-01-31.pdf": {
+        "document_type": {
+          "value": "Risk_Assessment",
+          "quote": "RISK ASSESSMENT REPORT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100012",
+          "quote": "Policy Number: POL100012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-01-31",
+          "quote": "Date: 2026-01-31",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Plot 14, MIDC Bhosari, Pune",
+          "quote": "Risk Location: Plot 14, MIDC Bhosari, Pune",
+          "page": 1,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "880,000,000",
+          "quote": "Sum Insured: 880,000,000",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Medium",
+          "quote": "Risk Grade: Medium",
+          "page": 1,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a risk assessment report for Vindhya Steel Fabricators detailing policy details, risk grade, and sum insured."
+      },
+      "POL100012_Signed_Disclosure_2026-03-03.pdf": {
+        "document_type": {
+          "value": "Signed_Disclosure",
+          "quote": "DISCLOSURE AGREEMENT",
+          "page": 1,
+          "confidence": "high"
+        },
+        "policy_number": {
+          "value": "POL100012",
+          "quote": "Policy Number: POL100012",
+          "page": 1,
+          "confidence": "high"
+        },
+        "document_date": {
+          "value": "2026-03-03",
+          "quote": "Date: 2026-03-03",
+          "page": 1,
+          "confidence": "high"
+        },
+        "effective_date": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "proposer_name": {
+          "value": "Vindhya Steel Fabricators",
+          "quote": "Proposer: Vindhya Steel Fabricators",
+          "page": 1,
+          "confidence": "high"
+        },
+        "risk_location": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "sum_insured": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "risk_grade": {
+          "value": "Not Found",
+          "quote": "",
+          "page": 0,
+          "confidence": "high"
+        },
+        "form_version": {
+          "value": "DF-2025",
+          "quote": "Form Version: DF-2025",
+          "page": 1,
+          "confidence": "high"
+        },
+        "signature": {
+          "signed": true,
+          "quote": "Signature: ____________________",
+          "page": 1,
+          "confidence": "high"
+        },
+        "summary": "This document is a signed disclosure agreement for Vindhya Steel Fabricators dated 2026-03-03."
+      }
+    },
+    "rejected_citations": [],
+    "retrieved_rules": {
+      "POL100012_Application_2026-01-27.pdf": [
+        "CNT-001",
+        "STR-002",
+        "STR-001",
+        "POL-002",
+        "NAM-001",
+        "CNT-002",
+        "SIG-001",
+        "REN-001",
+        "POL-001",
+        "DAT-001"
+      ],
+      "POL100012_Inspection_Report_2026-02-05.pdf": [
+        "CNT-004",
+        "SIG-004",
+        "DAT-003",
+        "STR-002",
+        "DAT-001",
+        "DAT-002",
+        "POL-002",
+        "CNT-003",
+        "REN-001",
+        "NAM-001"
+      ],
+      "POL100012_Risk_Assessment_2026-01-31.pdf": [
+        "CNT-003",
+        "SIG-003",
+        "STR-002",
+        "DAT-002",
+        "REN-002",
+        "DAT-001",
+        "POL-002",
+        "NAM-001",
+        "REN-001",
+        "CNT-001"
+      ],
+      "POL100012_Signed_Disclosure_2026-03-03.pdf": [
+        "SIG-002",
+        "CNT-002",
+        "FRM-001",
+        "DAT-002",
+        "STR-002",
+        "SIG-003",
+        "SIG-004",
+        "SIG-001",
+        "NAM-002",
+        "POL-002"
+      ]
+    }
+  }
+}

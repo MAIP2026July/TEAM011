@@ -1,0 +1,56 @@
+{
+  "name": "PolicyGuard Demonstration Rulebook",
+  "version": "0.1",
+  "notice": "FICTIONAL. Written for this academic prototype. It is not a regulation, not an insurer's real policy, and does not quote IRDAI or any other regulator.",
+  "rules": [
+    {"id": "STR-001", "category": "structure", "applies_to": ["Folder"], "severity": "major", "method": "deterministic",
+     "text": "The policy folder must be named with the policy number, in the form POL followed by digits, and every file in it must carry that same policy number in its file name."},
+    {"id": "STR-002", "category": "structure", "applies_to": ["Folder"], "severity": "critical", "method": "deterministic",
+     "text": "Every policy folder must contain one Application, one Risk Assessment, one Inspection Report and one Signed Disclosure."},
+    {"id": "STR-003", "category": "structure", "applies_to": ["Folder"], "severity": "minor", "method": "deterministic",
+     "text": "A folder must hold only one current version of each required document. Superseded copies and duplicates must be removed or archived."},
+    {"id": "NAM-001", "category": "naming", "applies_to": ["Folder"], "severity": "minor", "method": "deterministic",
+     "text": "File names must follow PolicyNumber_DocumentType_YYYY-MM-DD.pdf, for example POL123456_Risk_Assessment_2025-03-14.pdf, using the standard document type names."},
+    {"id": "NAM-002", "category": "naming", "applies_to": ["Folder"], "severity": "minor", "method": "deterministic",
+     "text": "The date in a file name must equal the document date printed inside the document."},
+
+    {"id": "SIG-001", "category": "signature", "applies_to": ["Application"], "severity": "critical", "method": "llm",
+     "text": "The Application must carry the proposer's signature. A blank signature line, or a printed name with no signature, does not satisfy this rule."},
+    {"id": "SIG-002", "category": "signature", "applies_to": ["Signed_Disclosure"], "severity": "critical", "method": "llm",
+     "text": "The Signed Disclosure must carry the proposer's signature, confirming that the proposer received and acknowledged the disclosure."},
+    {"id": "SIG-003", "category": "signature", "applies_to": ["Risk_Assessment"], "severity": "major", "method": "llm",
+     "text": "The Risk Assessment must be signed by the assessing underwriter."},
+    {"id": "SIG-004", "category": "signature", "applies_to": ["Inspection_Report"], "severity": "major", "method": "llm",
+     "text": "The Inspection Report must be signed by the inspecting surveyor."},
+
+    {"id": "CNT-001", "category": "content", "applies_to": ["Application"], "severity": "major", "method": "llm",
+     "text": "The Application must state the proposer name, the risk location, the sum insured and the requested effective date. Any of these left blank makes the Application incomplete."},
+    {"id": "CNT-002", "category": "content", "applies_to": ["Signed_Disclosure"], "severity": "major", "method": "llm",
+     "text": "The Signed Disclosure must include the proposer's acknowledgement statement and must list the policy exclusions. A disclosure without the exclusions section is incomplete."},
+    {"id": "CNT-003", "category": "content", "applies_to": ["Risk_Assessment"], "severity": "major", "method": "llm",
+     "text": "The Risk Assessment must state a risk grade of Low, Medium or High, and must name the assessing underwriter."},
+    {"id": "CNT-004", "category": "content", "applies_to": ["Inspection_Report"], "severity": "major", "method": "llm",
+     "text": "The Inspection Report must state the condition of the property, the fire protection arrangements and the name of the surveyor."},
+    {"id": "FRM-001", "category": "content", "applies_to": ["Signed_Disclosure"], "severity": "major", "method": "deterministic",
+     "text": "The Signed Disclosure must use form version DF-2024 or later. Earlier form versions are withdrawn and must not be used."},
+
+    {"id": "POL-001", "category": "consistency", "applies_to": ["Folder"], "severity": "critical", "method": "deterministic",
+     "text": "The policy number printed inside every document must equal the policy number of the folder."},
+    {"id": "POL-002", "category": "consistency", "applies_to": ["Folder"], "severity": "major", "method": "llm",
+     "text": "The proposer name, risk location and sum insured must agree across all documents in the folder. Treat ordinary abbreviations of the same name or address as agreement."},
+
+    {"id": "DAT-001", "category": "consistency", "applies_to": ["Folder"], "severity": "major", "method": "deterministic",
+     "text": "The Risk Assessment and the Inspection Report must be dated on or after the Application date. A Risk Assessment dated before the Application is an inconsistency."},
+    {"id": "DAT-002", "category": "consistency", "applies_to": ["Folder"], "severity": "major", "method": "deterministic",
+     "text": "The Risk Assessment, Inspection Report and Signed Disclosure must all be dated on or before the policy effective date."},
+    {"id": "DAT-003", "category": "expiry", "applies_to": ["Folder"], "severity": "major", "method": "deterministic",
+     "text": "An Inspection Report older than 36 months on the audit date has expired and a fresh inspection is required."},
+
+    {"id": "REN-001", "category": "renewal", "applies_to": ["Renewal"], "severity": "critical", "method": "deterministic",
+     "text": "A policy may be recommended for renewal only when the folder has no open critical finding and every required document was analysed successfully."},
+    {"id": "REN-002", "category": "renewal", "applies_to": ["Renewal"], "severity": "major", "method": "deterministic",
+     "text": "A policy with a risk grade of High must be referred to an underwriter for manual review before renewal."},
+    {"id": "REN-003", "category": "renewal", "applies_to": ["Renewal"], "severity": "major", "method": "deterministic",
+     "text": "Every renewal decision is made by an authorised underwriter. The system may recommend, but must never approve a renewal."}
+  ]
+}
